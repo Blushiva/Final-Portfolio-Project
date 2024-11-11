@@ -5,7 +5,7 @@ import viteLogo from '/vite.svg'
 import styles from 'Portfolio/src/App.module.css'
 
 function App() {
-  return <div>HELLO WORLD!!!!</div>;
+  return <div className= {styles.App}>HELLO WORLD!!!!</div>;
 }
 
 export default App
