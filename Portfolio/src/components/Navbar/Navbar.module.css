@@ -1,4 +1,4 @@
-@import "../../vars.css";
+@import "../../vars.css"; /* Ensure this path is correct and the file exists */
 
 .navbar {
   position: relative;
